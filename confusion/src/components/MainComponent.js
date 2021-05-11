@@ -6,7 +6,7 @@ import DishDetail from './DishdetailComponent';
 
 class Main extends Component {
 
-  constructor(props) {
+  constructor(props){
     super(props);
 
     this.state = {
