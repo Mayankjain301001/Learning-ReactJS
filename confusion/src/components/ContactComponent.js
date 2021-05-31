@@ -1,7 +1,6 @@
-import React, {Component} from 'react';
-import { Breadcrumb, BreadcrumbItem, Form, Button, FormGroup, Label, Input, Col, FormFeedback } from 'reactstrap';
+import React, { Component } from 'react';
+import { Breadcrumb, BreadcrumbItem, Form, Button, FormGroup, Label, Input, Col, Row, FormFeedback } from 'reactstrap';
 import { Link } from 'react-router-dom';
-import { valid } from 'joi';
 
 class Contact extends Component {
     constructor(props){
